@@ -11,7 +11,8 @@ const config: Config = {
       backgroundImage: {
         'gradient-radial': 'radial-gradient(var(--tw-gradient-stops))',
         'gradient-conic':
-          'conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))',
+            'conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))',
+        'schwarz-lila-blau': 'linear-gradient(to bottom, #000000, #8A2BE2, #0000FF)', // Schwarz zu Lila-Blau-Übergang
       },
     },
   },
